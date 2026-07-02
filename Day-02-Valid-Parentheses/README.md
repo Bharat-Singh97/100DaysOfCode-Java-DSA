@@ -1,17 +1,25 @@
 # Day 02 - Valid Parentheses
 
-## Problem
+## 📝 Problem
+Given a string containing brackets, determine whether it is valid.
 
-LeetCode 20 - Valid Parentheses
+## 💡 Approach
+- Used Stack to store opening brackets.
+- Whenever a closing bracket appeared, matched it with the top of the stack.
+- If every bracket matched correctly, the string is valid.
 
-## Pattern
+## ⏱️ Time Complexity
+O(n)
 
+## 💾 Space Complexity
+O(n)
+
+## 🧠 Pattern
 Stack
 
-## Time Complexity
+## 🚀 Key Learning
+- Stack follows Last In First Out (LIFO).
+- Useful for matching brackets and nested structures.
+- ## 📌 Tags
 
-O(n)
-
-## Space Complexity
-
-O(n)
+`Java` `DSA` `LeetCode` `Problem Solving`
