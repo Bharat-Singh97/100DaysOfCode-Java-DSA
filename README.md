@@ -27,6 +27,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 9 | Container With Most Water | Two Pointers | ✅ |
 | Day 10 | Trapping Rain Water | Two Pointers | ✅ |
 | Day 11 | Next Greater Element I | Monotonic Stack + HashMap | ✅ |
+| Day 12 | Contains Duplicate | HashSet| ✅ |
 
 ---
 
