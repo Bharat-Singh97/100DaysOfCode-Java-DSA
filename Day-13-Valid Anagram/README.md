@@ -1,73 +1,87 @@
-📘 Day 13 - Valid Anagram
-Problem
+📘 Day 13 — Valid Anagram (LeetCode 242)
 
-Given two strings s and t, return true if t is an anagram of s, otherwise return false.
+Pattern: 🧠 Frequency Array | Hashing
 
-An anagram is a word or phrase formed by rearranging the letters of another word, using all the original letters exactly once.
+🎯 Problem Statement
 
-Examples
+Determine whether two strings are anagrams by checking if they contain the same characters with the same frequencies.
 
-Input:
+💡 Key Idea
 
-s = "anagram"
-t = "nagaram"
+Instead of comparing every character repeatedly, count the frequency of each character once and compare the counts.
 
-Output:
+🚀 Approach
+Length Check
+      │
+      ▼
+Create int[26]
+      │
+      ▼
++1 for String s
+-1 for String t
+      │
+      ▼
+All values become 0 ?
+      │
+   Yes │ No
+      ▼
+   True   False
+⚡ Complexity
+Complexity	Value
+⏱ Time	O(n)
+💾 Space	O(1)
+🧠 What I Learned
+🔸 Brute Force vs Optimized
+❌ Brute Force → Compare repeatedly → O(n²)
+✅ Optimized → Frequency Array → O(n)
+🔸 When to use a Frequency Array?
 
-true
+✔ When the input has a fixed character set (e.g., a-z, A-Z, 0-9).
 
-Input:
+🔸 Why is int[26] → O(1)?
 
-s = "rat"
-t = "car"
+Because its size is always 26, regardless of the input length.
 
-Output:
+🔸 What does s.charAt(i) - 'a' do?
+'a' → 0
+'b' → 1
+'c' → 2
+...
+'z' → 25
 
-false
-Approach
-Check if both strings have the same length.
-Create a frequency array of size 26.
-Traverse both strings together.
-Increment the count for characters in the first string.
-Decrement the count for characters in the second string.
-Check whether every value in the frequency array is 0.
-If yes, return true; otherwise, return false.
-Algorithm
-Compare the lengths of both strings.
-If lengths are different, return false.
-Create an integer array count[26].
-Traverse both strings simultaneously.
-Increment the frequency of characters from the first string.
-Decrement the frequency of characters from the second string.
-Traverse the frequency array.
-If any value is not 0, return false.
-Otherwise, return true.
-Time Complexity
+It converts a character into its corresponding array index.
 
-O(n)
+🔸 Why check the lengths first?
 
-First loop → O(n)
-Second loop → O(26) = O(1)
+Different lengths ⇒ Different character counts ⇒ Not an anagram.
 
-Overall:
+🔸 Why increment one string and decrement the other?
+String s   → +1
+String t   → -1
 
-O(n + 26) = O(n)
-Space Complexity
+If every frequency becomes 0, both strings have identical character counts.
 
-O(1)
+🎯 Pattern Recognition
+If the problem says...	Think...
+Same characters	✅ Frequency Array
+Character count	✅ Hashing
+Compare frequencies	✅ int[26]
+Only lowercase letters	✅ Constant Space
 
-The frequency array size is always 26, which is constant and does not depend on the input size.
+Whenever the input contains only lowercase English letters, prefer a Frequency Array over a HashMap because it is faster and uses constant extra space.
 
-Concepts Learned
-Brute Force vs Optimized: Brute force compares repeatedly (O(n²)), while the optimized approach uses a frequency array (O(n)).
-When to use a Frequency Array: Use it when the input has a fixed character set (e.g., a-z).
-Why int[26] is O(1): The array size is fixed (26) and does not depend on the input size.
-s.charAt(i) - 'a': Converts a character into an array index ('a' → 0, 'b' → 1, ..., 'z' → 25).
-Why check string lengths first: Strings with different lengths cannot be anagrams.
-Why increment and decrement: Increment for the first string and decrement for the second. If all frequencies become 0, the strings are anagrams.
+Q1. Why use a Frequency Array instead of a HashMap?
 
-String | Frequency Array | Hashing
+A: Use a Frequency Array when the input has a fixed character set (e.g., a-z). It is faster and uses constant space.
 
-LeetCode
+Q2. Why is the space complexity O(1)?
 
-242. Valid Anagram
+A: Because the frequency array size is fixed (26) and does not depend on the input size.
+
+Q3. What does s.charAt(i) - 'a' do?
+
+A: It converts a lowercase character into its array index ('a' → 0, 'b' → 1, ..., 'z' → 25).
+
+Q4. Why increment one string and decrement the other?
+
+A: Matching character frequencies cancel each other. If every value becomes 0, the strings are anagrams.
