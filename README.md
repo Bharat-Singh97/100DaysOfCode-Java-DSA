@@ -28,6 +28,8 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 10 | Trapping Rain Water | Two Pointers | ✅ |
 | Day 11 | Next Greater Element I | Monotonic Stack + HashMap | ✅ |
 | Day 12 | Contains Duplicate | HashSet| ✅ |
+| Day 13 | Valid Anagram | Frequency Array, Hashing | ✅ |
+| Day 14 | Valid Palindrome | Two Pointers | ✅ |
 
 ---
 
