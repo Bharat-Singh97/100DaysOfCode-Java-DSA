@@ -31,6 +31,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 13 | Valid Anagram | Frequency Array, Hashing | ✅ |
 | Day 14 | Valid Palindrome | Two Pointers | ✅ |
 | Day 15 |Product of Array Except Self |Prefix Product + Suffix Product | ✅ |
+| Day 16 | Maximum Product Subarray | Running Maximum & Minimum | O(n) | O(1) | ✅ |
 
 
 ---
