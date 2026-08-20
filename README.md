@@ -32,6 +32,8 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 14 | Valid Palindrome | Two Pointers | ✅ |
 | Day 15 |Product of Array Except Self |Prefix Product + Suffix Product | ✅ |
 | Day 16 | Maximum Product Subarray | Running Maximum & Minimum | O(n) | O(1) | ✅ |
+| Day 17 | Two Sum II - Input Array Is Sorted| Two Pointer| O(n) | O(1) | ✅ |
+
 
 
 ---
