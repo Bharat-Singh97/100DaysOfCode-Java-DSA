@@ -33,6 +33,9 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 15 |Product of Array Except Self |Prefix Product + Suffix Product | ✅ |
 | Day 16 | Maximum Product Subarray | Running Maximum & Minimum |  ✅ |
 | Day 17 | Two Sum II - Input Array Is Sorted| Two Pointer|  ✅ |
+| Day 18 | Moves -Zeroes| Two Pointer | ✅|
+| Day 19 | Remove Duplicates| Two Pointer | ✅|
+| Day 20 | Remove-Element | Two Pointer | ✅|
 
 
 
