@@ -36,6 +36,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 18 | Moves -Zeroes| Two Pointer | ✅|
 | Day 19 | Remove Duplicates| Two Pointer | ✅|
 | Day 20 | Remove-Element | Two Pointer | ✅|
+| Day 21 | Search Insert Position | Binary Search| Sorted Array|✅|
 
 
 
