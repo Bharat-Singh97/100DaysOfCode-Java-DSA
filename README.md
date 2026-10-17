@@ -37,6 +37,10 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 19 | Remove Duplicates| Two Pointer | ✅|
 | Day 20 | Remove-Element | Two Pointer | ✅|
 | Day 21 | Search Insert Position | Binary Search-Sorted Array|✅|
+| Day 22 | Find First and Last Position of Element in Sorted Array | Binary Search + Boundary Search|✅|
+| Day 23 | Search in Rotated Sorted Array | Modified Binary Search Sorted Half Identification Search Space Reduction|✅| 
+
+
 
 
 
