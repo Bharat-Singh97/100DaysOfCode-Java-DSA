@@ -40,6 +40,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 22 | Find First and Last Position of Element in Sorted Array | Binary Search + Boundary Search|✅|
 | Day 23 | Search in Rotated Sorted Array | Modified Binary Search Sorted Half Identification Search Space Reduction|✅| 
 | Day 24 | Search a 2D Matrix| Binary Search on a Virtual 1D Array (2D array based problem) |✅|
+| Day 25 | Find Minimum in Rotated Sorted Array| Modified Binary Search Sorted  |✅|
 
 
 
