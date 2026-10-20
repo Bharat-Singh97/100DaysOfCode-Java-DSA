@@ -41,6 +41,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 23 | Search in Rotated Sorted Array | Modified Binary Search Sorted Half Identification Search Space Reduction|✅| 
 | Day 24 | Search a 2D Matrix| Binary Search on a Virtual 1D Array (2D array based problem) |✅|
 | Day 25 | Find Minimum in Rotated Sorted Array| Modified Binary Search Sorted  |✅|
+| Day 26 | Find Peak Element | Binary Search on a Peak |✅| 
 
 
 
