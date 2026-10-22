@@ -43,6 +43,8 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 25 | Find Minimum in Rotated Sorted Array| Modified Binary Search Sorted  |✅|
 | Day 26 | Find Peak Element | Binary Search on a Peak |✅|   
 | Day 27 | Peak Index in a Mountain Array | Binary Search on an increasing/decreasing sequence |✅|
+| Day 28 | Koko Eating Bananas | Binary Search on Answer |✅|
+
 
 
 ---
