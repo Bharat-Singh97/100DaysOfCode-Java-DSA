@@ -56,6 +56,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 38 | Find the Difference | String / Bit Manipulation (XOR) | ✅ |
 | Day 39 | First Unique Character in a String | String / Frequency Array | ✅ |
 | Day 40 | Intersection of Two Arrays II  | Array / HashMap | ✅ |
+| Day 41 | Intersection of Two Arrays | Array / HashSet | ✅ |
 
 
 
