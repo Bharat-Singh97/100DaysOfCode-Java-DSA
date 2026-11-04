@@ -44,6 +44,18 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 26 | Find Peak Element | Binary Search on a Peak |✅|   
 | Day 27 | Peak Index in a Mountain Array | Binary Search on an increasing/decreasing sequence |✅|
 | Day 28 | Koko Eating Bananas | Binary Search on Answer |✅|
+| Day 29 | Palindrome Number   | Math / Number Manipulation | ✅ |
+| Day 30 | Add Digits          | Math / Digit Sum | ✅ |                                   
+| Day 31 | Power of Two        | Math / Number Manipulation | ✅ |
+| Day 32 | Power of Four       | Math / Number Manipulation | ✅ |
+| Day 33 | Power of Three      | Math / Number Manipulation | ✅ |
+| Day 34 | Number of 1 Bits    | Bit Manipulation | ✅ |
+| Day 35 | Reverse Bits        | Bit Manipulation | ✅ |
+| Day 36 | Missing Number      | Array / Math | ✅ |
+| Day 37 | Single Number       | Array / Bit Manipulation (XOR) | ✅ |
+| Day 38 | Find the Difference | String / Bit Manipulation (XOR) | ✅ |
+| Day 39 | First Unique Character in a String | String / Frequency Array | ✅ |
+| Day 40 | Intersection of Two Arrays II  | Array / HashMap | ✅ |
 
 
 
