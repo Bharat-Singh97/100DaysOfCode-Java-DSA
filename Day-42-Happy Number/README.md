@@ -61,6 +61,3 @@ class Solution {
 Where:
 - `k` = number of transformations
 - `d` = number of digits processed per transformation
-
-Completed
-```
