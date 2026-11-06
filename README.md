@@ -57,6 +57,10 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 39 | First Unique Character in a String | String / Frequency Array | ✅ |
 | Day 40 | Intersection of Two Arrays II  | Array / HashMap | ✅ |
 | Day 41 | Intersection of Two Arrays | Array / HashSet | ✅ |
+| Day 42 | Happy Number | Math + HashSet | ✅ |
+
+
+
 
 
 
