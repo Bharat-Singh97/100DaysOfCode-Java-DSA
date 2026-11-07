@@ -58,6 +58,8 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 40 | Intersection of Two Arrays II  | Array / HashMap | ✅ |
 | Day 41 | Intersection of Two Arrays | Array / HashSet | ✅ |
 | Day 42 | Happy Number | Math + HashSet | ✅ |
+| Day 43 | Remove Duplicates from Sorted Array II | Array / Two Pointers | ✅ |
+| Day 44 | Majority Element  | Array / Boyer-Moore Voting | ✅ |
 
 
 
