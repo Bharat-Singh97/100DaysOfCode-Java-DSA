@@ -61,6 +61,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 43 | Remove Duplicates from Sorted Array II | Array / Two Pointers | ✅ |
 | Day 44 | Majority Element  | Array / Boyer-Moore Voting | ✅ |
 | Day 45 | Find All Numbers Disappeared in an Array | Array / HashSet | ✅ |
+| Day 46 | Find the Duplicate Number  | Array / Two Pointers / Floyd's Cycle Detection | ✅ |
 
 
 
