@@ -63,6 +63,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 45 | Find All Numbers Disappeared in an Array | Array / HashSet | ✅ |
 | Day 46 | Find the Duplicate Number  | Array / Two Pointers / Floyd's Cycle Detection | ✅ |
 | Day 47 | Find All Duplicates in an Array  | Array / HashSet | ✅ |
+| Day 48 | Find the Pivot Index  | Array / Prefix Sum | ✅ |
 
 
 
