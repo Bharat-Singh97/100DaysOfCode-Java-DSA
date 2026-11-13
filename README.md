@@ -65,6 +65,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 47 | Find All Duplicates in an Array  | Array / HashSet | ✅ |
 | Day 48 | Find the Pivot Index  | Array / Prefix Sum | ✅ |
 | Day 49 | Running Sum of 1D Array  | Array / Prefix Sum | ✅ |
+| Day 50 | Find the Highest Altitude  | Array / Prefix Sum | ✅ |
 
 
 
