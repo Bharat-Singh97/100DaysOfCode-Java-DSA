@@ -70,6 +70,7 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 52 | Subarray Sum Equals K  | Prefix Sum/Subarray  | ✅ |
 | Day 53 | Ransom Note | HashMap + Frequency Counting | ✅ |
 | Day 54 | Isomorphic Strings  | HashMap + String | ✅ |
+| Day 55 | Word Pattern  | HashMap / Bijection | ✅ |
 
 
 
