@@ -72,6 +72,8 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 54 | Isomorphic Strings  | HashMap + String | ✅ |
 | Day 55 | Word Pattern  | HashMap / Bijection | ✅ |
 | Day 56 | Group Anagrams | Hashing / String Sorting | ✅ |
+| Day 57 | Longest Consecutive Sequence  | Hashing / HashSet | ✅ |
+
 
 
 
