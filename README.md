@@ -74,6 +74,8 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 56 | Group Anagrams | Hashing / String Sorting | ✅ |
 | Day 57 | Longest Consecutive Sequence  | Hashing / HashSet | ✅ |
 | Day 58 | Top K Frequent Elements  | HashMap / Bucket Sort | ✅ |
+| Day 59 | Squares of a Sorted Array | Array / Two Pointers | ✅ |
+
 
 
 
