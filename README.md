@@ -76,6 +76,8 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 58 | Top K Frequent Elements  | HashMap / Bucket Sort | ✅ |
 | Day 59 | Squares of a Sorted Array | Array / Two Pointers | ✅ |
 | Day 60 | Maximum Average Subarray I | Array / Sliding Window | ✅ |
+| Day 61 | Maximum Number of Vowels in a Substring of Given Length | String / Sliding Window | ✅ |
+
 
 
 
