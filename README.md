@@ -79,6 +79,8 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 61 | Maximum Number of Vowels in a Substring of Given Length | String / Sliding Window | ✅ |
 | Day 62 | Length of Last Word | String / Reverse Traversal | ✅ |
 | Day 63 | Merge Sorted Array | Array / Two Pointers | ✅ |
+| Day 64 | Is Subsequence | String / Two Pointers | ✅ |
+
 
 
 
