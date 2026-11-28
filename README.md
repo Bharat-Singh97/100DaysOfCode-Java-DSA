@@ -80,6 +80,8 @@ Hi! I'm currently solving LeetCode problems in Java to improve my Data Structure
 | Day 62 | Length of Last Word | String / Reverse Traversal | ✅ |
 | Day 63 | Merge Sorted Array | Array / Two Pointers | ✅ |
 | Day 64 | Is Subsequence | String / Two Pointers | ✅ |
+| Day 65 | Roman to Integer | String / Lookahead Mapping | ✅ |
+
 
 
 
